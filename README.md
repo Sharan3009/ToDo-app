@@ -3,8 +3,8 @@
 A web app where you can create and manage todo lists. It also has the feature to collaborate public task lists with friends.
 
 ### Dummy Credentials
-#Email : dummy<br>
-#Password : password
+<b>Email</b> : dummy<br>
+<b>Password</b> : password
 
 [Click here](http://todo.sharansingh.xyz) to check the app.
 
