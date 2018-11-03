@@ -3,7 +3,7 @@ define({
   "version": "0.0.1",
   "description": "Documentation for the todo app",
   "title": "Rest APIs",
-  "url": "http://localhost:3000
+  "url": "http://localhost:3000",
   "sampleUrl": false,
   "defaultVersion": "0.0.0",
   "apidoc": "0.3.0",
